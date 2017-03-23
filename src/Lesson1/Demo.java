@@ -2,7 +2,7 @@ package Lesson1;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import java.awt.*;
-
+// some comment
 class MyClass extends Thread
 {
 	public void run() {
